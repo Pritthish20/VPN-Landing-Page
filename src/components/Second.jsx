@@ -49,7 +49,7 @@ export const Second = () => {
           </p>{" "}
           <p className="text-xl  text-gray-600">cheerfully.</p>
         </div>
-        <div className="h-3/4 flex mt-4 mx-8 mb-10 px-40 ">
+        <div className="h-3/4 flex mt-8 mx-8 mb-10 px-40 ">
           <div className="w-1/3 h-5/6 my-14 mx-16 border-4 border-gray-400 rounded-2xl flex flex-col items-center hover:border-main-orange hover:border-6">
             <img className="min-h-96 min-w-60 " src={img3} alt="" />
             <h1 className="text-3xl">Free Plan</h1>
