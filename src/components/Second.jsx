@@ -41,9 +41,9 @@ export const Second = () => {
         </div>
       </div>
       <div className="h-[1000px] mt-20 mb-10 flex flex-col">
-        <div className="h-1/4 mt-10 flex flex-col items-center">
-          <h1 className="text-4xl mt-6">Choose Your Plan</h1>
-          <p className="text-xl mt-8 text-gray-600">
+        <div className="h-1/4 mt-16 flex flex-col items-center">
+          <h1 className="text-4xl mt-12">Choose Your Plan</h1>
+          <p className="text-xl mt-16 text-gray-600">
             Let's choose the package that is best for you and explore it happily
             and{" "}
           </p>{" "}
@@ -51,7 +51,7 @@ export const Second = () => {
         </div>
         <div className="h-3/4 flex mx-8 mb-10 px-40 ">
           <div className="w-1/3 h-5/6 my-10 mx-16 border-4 border-gray-400 rounded-2xl flex flex-col items-center hover:border-main-orange hover:border-6">
-            <img className="min-h-96 min-w-60  mt-2" src={img3} alt="" />
+            <img className="min-h-96 min-w-60 " src={img3} alt="" />
             <h1 className="text-3xl">Free Plan</h1>
             <p className="mt-2 text-xl text-gray-600"> XXX$ / yr</p>
             <ul className="m-4">
@@ -61,7 +61,7 @@ export const Second = () => {
             </ul>
           </div>
           <div className="w-1/3 h-5/6 my-10 mx-16 border-4 border-gray-400 rounded-2xl flex flex-col items-center hover:border-main-orange hover:border-6">
-            <img className="min-h-96 min-w-60  mt-2" src={img3} alt="" />
+            <img className="min-h-96 min-w-60 " src={img3} alt="" />
             <h1 className="text-3xl">Standard Plan</h1>
             <p className="mt-2 text-xl text-gray-600"> XXX$ / yr</p>
             <ul className="m-4">
