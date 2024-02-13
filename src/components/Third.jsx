@@ -8,14 +8,14 @@ import spotify from "../assets/spotify.svg";
 
 export const Third = () => {
   return (
-    <div className="h-[900px] flex-col mx-8 px-40 items-center justify-center ">
+    <div className="h-[800px] flex-col mx-8 px-40 items-center justify-center ">
       <img
-        className="self-center max-h-[800px] opacity-60 pt-20 mt-36 ml-40 mb-12"
+        className="self-center max-h-[800px] opacity-70 pt-20 mt-36 ml-40 mb-12"
         src={map}
         alt=""
       />
 
-      <div className="h-[200px] flex  ">
+      <div className="h-[200px] flex mb-10 ">
         <div className="w-1/5 flex justify-center items-start">
           <img className="opacity-60 max-w-56 " src={netflix} alt="" />
         </div>
