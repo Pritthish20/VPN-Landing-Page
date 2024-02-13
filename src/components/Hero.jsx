@@ -34,7 +34,7 @@ export const Hero = () => {
           <img className="w-[840px] mt-10" src={img1} alt="" />
         </div>
       </div>
-      <div className="h-[250px] flex jus mb-4 px-40 ">
+      <div className="h-[250px] flex my-4 px-40 ">
         <div className="w-1/3 m-4 flex ">
           <div className=" flex justify-end items-center w-1/2">
             <div className=" flex justify-center items-center min-w-24 min-h-24 rounded-full bg-[#fcc4cc]">
