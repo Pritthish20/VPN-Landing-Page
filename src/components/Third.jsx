@@ -8,9 +8,9 @@ import spotify from "../assets/spotify.svg";
 
 export const Third = () => {
   return (
-    <div className="h-[800px] flex-col mx-8 px-40 items-center justify-center ">
+    <div className="h-[1000px] flex-col py-4 mx-8 px-40 items-center justify-center ">
       <img
-        className="self-center max-h-[800px] opacity-70 pt-20 mt-36 ml-40 mb-12"
+        className="self-center max-h-[800px] opacity-70 pt-20 mt-26 ml-40 mb-4"
         src={map}
         alt=""
       />
