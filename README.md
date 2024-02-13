@@ -1,8 +1,24 @@
-# React + Vite
+Project Overview:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Title: VPN-Landing_Page.
+Description: Landing Page for LaslesVPN .
+Contributors: Pritthish Sarkar.
+Tech Stack: HTML , Tailwind CSS , Java script , React JS , FlowBite React , React-Slick.
 
-Currently, two official plugins are available:
+Technologies Used:
+	Used React JS for majour part of the website .
+ 	Tailwind CSS for styling along FlowBite component library.
+	HTML for the basic structure of the website.
+ 	Used React Slick ans Slick Carousel for the testimonial section.	
+  	The website is not compatible for moblies / phones.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Folder Structure:
+	All the images and svg files are in src/assets folder.
+ 	All components are in src/components folder.
+  	All the dummy user data for the testimonial section is present in src/info folder.
+
+Coding Standards: 
+	High Code standard in maintained. High level , easy understandable code which is consistant.  
+
+Deployment:
+	Deployed project using Vercel.
