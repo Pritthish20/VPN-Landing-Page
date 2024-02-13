@@ -6,7 +6,7 @@ import img3 from "../assets/intern 4.png";
 export const Second = () => {
   return (
     <div className="">
-      <div className="h-[700px] flex mt-10 mb-20 mx-8 px-40 ">
+      <div className="h-[700px] flex mt-10 mb-14 mx-8 px-40 ">
         <div className="w-1/2 pl-16 flex items-start">
           <img className="w-[840px] mt-10" src={img2} alt="" />
         </div>
@@ -40,7 +40,7 @@ export const Second = () => {
           </ul>
         </div>
       </div>
-      <div className="h-[1000px] mt-12 mb-4 flex flex-col">
+      <div className="h-[1000px] mt-8 mb-4 flex flex-col">
         <div className="h-1/4 mt-16 flex flex-col items-center">
           <h1 className="text-4xl mt-12">Choose Your Plan</h1>
           <p className="text-xl mt-8 text-gray-600">
