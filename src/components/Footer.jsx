@@ -14,13 +14,13 @@ export const Footer = () => {
               <img src={fire} className="h-12" alt="Logo" />
               Lasles<span className="font-bold">VPN</span>
             </h2>
-            <h3 className="text-gray-500 text-xl">
+            <h3 className="text-gray-500 text-base">
               <span className='"text-gray-500 dark:text-gray-400 font-medium'>
                 LaslesVPN
               </span>{" "}
               is a private virtual network that
             </h3>
-            <h3 className="text-gray-500 text-xl">
+            <h3 className="text-gray-500 text-base">
               {" "}
               has unique features ans has high security
             </h3>
