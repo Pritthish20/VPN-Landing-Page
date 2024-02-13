@@ -15,7 +15,7 @@ export const Third = () => {
         alt=""
       />
 
-      <div className="h-[200px] flex mb-10 ">
+      <div className="h-[200px] flex mb-2 ">
         <div className="w-1/5 flex justify-center items-start">
           <img className="opacity-60 max-w-56 " src={netflix} alt="" />
         </div>
