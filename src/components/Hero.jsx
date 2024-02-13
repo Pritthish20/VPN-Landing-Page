@@ -6,7 +6,7 @@ import server from "../assets/server.svg";
 
 export const Hero = () => {
   return (
-    <div className="mb-8">
+    <div className="mb-8 mt-8">
       <div className="h-[560px] flex mx-4 px-40 mb-8 ">
         <div className="w-2/4 flex items-center justify-start ">
           <div className=" mt-10 ml-10 ">
