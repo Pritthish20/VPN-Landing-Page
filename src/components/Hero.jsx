@@ -7,7 +7,7 @@ import server from "../assets/server.svg";
 export const Hero = () => {
   return (
     <div className="mb-8">
-      <div className="h-[560px] flex mx-4 px-40  ">
+      <div className="h-[560px] flex mx-4 px-40 mb-8 ">
         <div className="w-2/4 flex items-center justify-start ">
           <div className=" mt-10 ml-10 ">
             <h1 className=" mt-8 mb-10 lg:text-6xl sm:text-2xl font-semibold text-gray-900 dark:text-white tracking-wide ">
