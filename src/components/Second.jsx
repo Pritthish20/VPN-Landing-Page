@@ -40,7 +40,7 @@ export const Second = () => {
           </ul>
         </div>
       </div>
-      <div className="h-[1000px] mt-20 mb-10 flex flex-col">
+      <div className="h-[1000px] mt-10 mb-10 flex flex-col">
         <div className="h-1/4 mt-16 flex flex-col items-center">
           <h1 className="text-4xl mt-12">Choose Your Plan</h1>
           <p className="text-xl mt-16 text-gray-600">
