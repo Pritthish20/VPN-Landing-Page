@@ -51,7 +51,7 @@ export const Second = () => {
         </div>
         <div className="h-3/4 flex mx-8 mb-10 px-40 ">
           <div className="w-1/3 my-10 mx-24 border-4 border-gray-400 rounded-2xl flex flex-col items-center hover:border-main-orange hover:border-6">
-            <img className="min-h-96 min-w-60 mt-6" src={img3} alt="" />
+            <img className="min-h-96 min-w-72 mt-6" src={img3} alt="" />
             <h1 className="text-3xl">Free Plan</h1>
             <p className="mt-2 text-xl text-gray-600"> XXX$ / yr</p>
             <ul className="m-4">
@@ -61,7 +61,7 @@ export const Second = () => {
             </ul>
           </div>
           <div className="w-1/3 my-10 mx-24 border-4 border-gray-400 rounded-2xl flex flex-col items-center hover:border-main-orange hover:border-6">
-            <img className="min-h-96 min-w-60 mt-6" src={img3} alt="" />
+            <img className="min-h-96 min-w-72 mt-6" src={img3} alt="" />
             <h1 className="text-3xl">Standard Plan</h1>
             <p className="mt-2 text-xl text-gray-600"> XXX$ / yr</p>
             <ul className="m-4">
@@ -71,7 +71,7 @@ export const Second = () => {
             </ul>
           </div>
           <div className="w-1/3 my-10 mx-24 border-4 border-gray-400 rounded-2xl flex flex-col items-center hover:border-main-orange hover:border-6">
-            <img className="min-h-96 min-w-60 mt-6" src={img3} alt="" />
+            <img className="min-h-96 min-w-72 mt-6" src={img3} alt="" />
             <h1 className="text-3xl">Premium Plan</h1>
             <p className="mt-2 text-xl text-gray-600"> XXX$ / yr</p>
             <ul className="m-4">
