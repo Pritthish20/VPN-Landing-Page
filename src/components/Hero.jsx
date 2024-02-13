@@ -6,10 +6,10 @@ import server from "../assets/server.svg";
 
 export const Hero = () => {
   return (
-    <div className="mb-12">
+    <div className="mb-6">
       <div className="h-[700px] flex mx-4 px-40  ">
         <div className="w-2/4 flex items-center justify-start bg-">
-          <div className=" mt-4 ml-10 ">
+          <div className=" ml-10 ">
             <h1 className=" mt-8 mb-10 lg:text-6xl sm:text-2xl font-semibold text-gray-900 dark:text-white tracking-wide ">
               <span className="px-10 py-20">Want anything to be</span> <br />
               <span className="px-10 py-20">
