@@ -46,7 +46,7 @@ export const Fourth = () => {
                   <h1 className="text-3xl font-semibold w-60">{p.name}</h1>
                   <p className="text-base pl-6 text-gray-500">{p.address}</p>
                 </div>
-                <div className="pl-20 text-2xl">
+                <div className="pl-16 text-2xl">
                   {p.star} <span className="text-3xl text-yellow-300">★</span>
                 </div>
               </div>
