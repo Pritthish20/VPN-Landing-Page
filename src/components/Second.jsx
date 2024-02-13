@@ -43,13 +43,13 @@ export const Second = () => {
       <div className="h-[1000px] mt-12 mb-4 flex flex-col">
         <div className="h-1/4 mt-16 flex flex-col items-center">
           <h1 className="text-4xl mt-12">Choose Your Plan</h1>
-          <p className="text-xl mt-16 text-gray-600">
+          <p className="text-xl mt-8 text-gray-600">
             Let's choose the package that is best for you and explore it happily
             and{" "}
           </p>{" "}
           <p className="text-xl  text-gray-600">cheerfully.</p>
         </div>
-        <div className="h-3/4 flex mx-8 mb-10 px-40 ">
+        <div className="h-3/4 flex mt-4 mx-8 mb-10 px-40 ">
           <div className="w-1/3 h-5/6 my-14 mx-16 border-4 border-gray-400 rounded-2xl flex flex-col items-center hover:border-main-orange hover:border-6">
             <img className="min-h-96 min-w-60 " src={img3} alt="" />
             <h1 className="text-3xl">Free Plan</h1>
