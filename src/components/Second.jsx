@@ -6,7 +6,7 @@ import img3 from "../assets/intern 4.png";
 export const Second = () => {
   return (
     <div className="">
-      <div className="h-[700px] flex mt-40 mb-40 mx-8 px-40 ">
+      <div className="h-[700px] flex mt-10 mb-32 mx-8 px-40 ">
         <div className="w-1/2 pl-16 flex items-start">
           <img className="w-[840px] mt-10" src={img2} alt="" />
         </div>
