@@ -10,7 +10,7 @@ export const Third = () => {
   return (
     <div className="h-[1000px] flex-col my-8 mx-8 px-40 items-center justify-center ">
       <img
-        className="self-center max-h-[800px] opacity-60 pt-20 mt-36 ml-60 mb-12"
+        className="self-center max-h-[800px] opacity-60 pt-20 mt-36 ml-64 mb-12"
         src={map}
         alt=""
       />
